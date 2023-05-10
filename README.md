@@ -12,7 +12,7 @@
 ## Front end
 - Java Script, HTML, CSS, D3js
 
-# Sobre o Curso
+# Sobre o Projeto
 https://d3js.org/
 
 # Autor
