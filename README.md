@@ -8,7 +8,7 @@
 ![Mobile 1](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/D3Js.png)
 
 ## Vídeo de demonstração
-[![Vídeo de demonstração]](https://youtu.be/ErXcTz06yUo)
+[[Vídeo de demonstração]](https://youtu.be/ErXcTz06yUo)
 
 # Tecnologias utilizadas
 
